@@ -1,10 +1,14 @@
 # SampleForRoutingProtocols
-A sample for configuring routing protocols on Cisco routers using Cisco Packet Tracer v8.2.1.0117
 
-> This file contains configurations of RIP, OSPF and EIGRP routing protocols (all redistributed)
-> 
-> For a part of the topology HSRP is configured
-> 
-> Servers including DHCP, Mail, Web and DNS are configured
+A comprehensive sample for configuring routing protocols on Cisco routers using Cisco Packet Tracer v8.2.1.0117.
 
-It was the final project of Computer Networks Lab 1 course
+## Overview
+
+This project includes configurations for RIP, OSPF, and EIGRP routing protocols, with all protocols redistributed for efficient routing across the network. Additionally, HSRP (Hot Standby Router Protocol) is configured for a segment of the topology to ensure network redundancy and reliability.
+
+### Configurations Included:
+- **Routing Protocols**: RIP, OSPF, and EIGRP
+- **HSRP**: Configured for part of the topology to provide high availability.
+- **Servers**: Configured to support DHCP, Mail, Web, and DNS services.
+
+This project was developed as the final assignment for the Computer Networks Lab 1 course.
